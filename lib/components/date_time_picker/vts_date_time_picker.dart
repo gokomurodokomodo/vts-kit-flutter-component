@@ -1,7 +1,7 @@
 // ignore_for_file: slash_for_doc_comments, prefer_expression_function_bodies
 
 import 'package:flutter/cupertino.dart';
-import 'package:flutter/material.dart';
+import 'package:flutter/material.dart' hide DatePickerTheme;
 import 'package:intl/intl.dart';
 import 'package:vts_component/vts_component.dart';
 

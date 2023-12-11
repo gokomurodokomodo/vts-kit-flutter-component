@@ -5,7 +5,7 @@ library flutter_datetime_picker;
 import 'dart:async';
 
 import 'package:flutter/cupertino.dart';
-import 'package:flutter/material.dart';
+import 'package:flutter/material.dart' hide DatePickerTheme;
 
 import 'customization/date_model.dart';
 import 'customization/datetime_picker_theme.dart';
